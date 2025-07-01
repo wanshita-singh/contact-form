@@ -1,3 +1,4 @@
+
 # Contact Form Project
 
 This is a simple and responsive **Contact Form** created using **HTML, CSS, and JavaScript**.
@@ -21,10 +22,6 @@ This is a simple and responsive **Contact Form** created using **HTML, CSS, and 
 2. Open `index.html` in your browser
 3. Fill in the form fields
 4. Submit and see real-time validation messages
-
-## 📸 Screenshot
-
-![alt text](image.png)
 
 ## 📌 Note
 

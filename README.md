@@ -9,6 +9,9 @@ This is a simple and responsive **Contact Form** created using **HTML, CSS, and 
 - Input validation using JavaScript
 - Feedback messages for success or errors
 - Clean, minimal design using custom CSS
+## Screenshot
+
+![Contact Form Screenshot](assets/screenshot.png)
 
 ## 📁 Files Included
 
